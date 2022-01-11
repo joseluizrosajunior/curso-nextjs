@@ -1,25 +1,25 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/board/node_modules
+/project-board/node_modules
 
 # next.js
-/board/.next/
-/board/out/
+/project-board/.next/
+/project-board/out/
 
 # production
-/board/build
+/project-board/build
 
 # debug
-/board/npm-debug.log*
-/board/yarn-debug.log*
-/board/yarn-error.log*
+/project-board/npm-debug.log*
+/project-board/yarn-debug.log*
+/project-board/yarn-error.log*
 
 # local env files
-/board/.env.local
-/board/.env.development.local
-/board/.env.test.local
-/board/.env.production.local
+/project-board/.env.local
+/project-board/.env.development.local
+/project-board/.env.test.local
+/project-board/.env.production.local
 
 # vercel
-/board/.vercel
+/project-board/.vercel
